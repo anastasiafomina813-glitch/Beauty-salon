@@ -31,6 +31,7 @@
 •	Управление функциями мастеров 
 
 
+<img width="2155" height="279" alt="hLJ1Ji904BtlL-on7AG_O8o_ubqlYdTe3Pf8Wl5WZ468qNZUL3Ss5BQ_yEQFVBj014NR57jekZFptioRcUxXMUVej7D-SgoKmWtUCKEEENBfII9T64dWfAlt3dI42GrEUWnntgbH1iC54OKCMvNu9u-cmI1ZG283ZGyUoX0zQ8ANbEKKak9DqaRv2tvSOYxNi9fWG-ZoCFK-M1u9Q" src="https://github.com/user-attachments/assets/6baffcd8-65ef-49ce-975e-9dce29e2f9c4" />
 
 
 
